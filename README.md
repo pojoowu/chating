@@ -1,2 +1,2 @@
-# chatting
+# CatChat
 a chating server
